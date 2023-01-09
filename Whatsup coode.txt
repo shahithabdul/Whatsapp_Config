@@ -12,4 +12,8 @@ Author : Abdul Shahith
 
 5. Hiding the last seen
 
+6.Adding the Audio call feature
+
+7.Adding the Video call feature 
+
  
